@@ -2,6 +2,9 @@
 const emp_getUser={
 
 }
+const emp_deleteUser={
+    
+}
 
 
 
@@ -12,8 +15,13 @@ const emp_getUser={
 const invnt_getItem={
     
 }
+const invnt_setItem={
 
 
+}
+const  invt_deleteitem={
+    
+}
 ///aruni function
 const menu_getItem={
 
