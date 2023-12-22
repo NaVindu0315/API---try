@@ -2,6 +2,9 @@
 const emp_getUser={
 
 }
+const emp_deleteUser={
+    
+}
 
 
 
